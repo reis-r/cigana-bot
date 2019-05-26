@@ -1,0 +1,19 @@
+{
+  "name": "cigana-bot",
+  "version": "1.0.0",
+  "description": "A telegram bot that shows daily tarot readings",
+  "main": "cigana-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarot",
+    "telegram",
+    "bot"
+  ],
+  "author": "Rony Reis",
+  "license": "MIT License",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
